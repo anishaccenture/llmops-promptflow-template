@@ -1,7 +1,7 @@
 {
     "envs":[
                 {
-                    "ENV_NAME": "pr",
+                    "ENV_NAME": "Production",
                     "RUNTIME_NAME": "llm-compute",
                     "KEYVAULT_NAME": "mlworkspacellm7456911651",
                     "RESOURCE_GROUP_NAME": "mlworkspacellm7456911651",
